@@ -1,0 +1,14 @@
+{
+  "name": "thunderdome",
+  "owner": {
+    "name": "SUPERWORLD!"
+  },
+  "plugins": [
+    {
+      "name": "thunderdome",
+      "source": "./plugins/thunderdome",
+      "description": "AI scrum master with queue-driven workflow. Status reporting, gamification, multi-agent coordination, and isolated sub-agent execution.",
+      "version": "1.0.0"
+    }
+  ]
+}
